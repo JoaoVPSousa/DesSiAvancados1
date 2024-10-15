@@ -2,7 +2,7 @@
 {
     public delegate void VerificarAprovação(decimal nota);
 
-    public static void Main()
+    public static void Main(string[] args)
     {
         var VerificarAprovação = delegate (decimal nota)
           {

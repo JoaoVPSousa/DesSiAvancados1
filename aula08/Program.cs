@@ -12,6 +12,8 @@ public class Program
 
         Console.WriteLine("Números pares:");
         numerosPares.ForEach(x => Console.WriteLine(x));
+        Console.WriteLine("Números: ");
+        numeros.ForEach(y=> Console.WriteLine(y));
 
         List<string> frutas = new List<string> { "Maçã", "Banana", "Manga", "Abacaxi", "Melancia", "Morango" };
         List<string> frutasOrdenadas = frutas.OrderBy(x => x).ToList();
