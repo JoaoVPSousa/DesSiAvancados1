@@ -1,0 +1,15 @@
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula06/bin/Debug/net8.0/aula06
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula06/bin/Debug/net8.0/aula06.deps.json
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula06/bin/Debug/net8.0/aula06.runtimeconfig.json
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula06/bin/Debug/net8.0/aula06.dll
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula06/bin/Debug/net8.0/aula06.pdb
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula06/obj/Debug/net8.0/aula06.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula06/obj/Debug/net8.0/aula06.AssemblyInfoInputs.cache
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula06/obj/Debug/net8.0/aula06.AssemblyInfo.cs
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula06/obj/Debug/net8.0/aula06.csproj.CoreCompileInputs.cache
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula06/obj/Debug/net8.0/aula06.sourcelink.json
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula06/obj/Debug/net8.0/aula06.dll
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula06/obj/Debug/net8.0/refint/aula06.dll
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula06/obj/Debug/net8.0/aula06.pdb
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula06/obj/Debug/net8.0/aula06.genruntimeconfig.cache
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula06/obj/Debug/net8.0/ref/aula06.dll

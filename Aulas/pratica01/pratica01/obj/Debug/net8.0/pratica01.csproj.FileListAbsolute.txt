@@ -1,0 +1,15 @@
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/pratica01/bin/Debug/net8.0/pratica01
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/pratica01/bin/Debug/net8.0/pratica01.deps.json
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/pratica01/bin/Debug/net8.0/pratica01.runtimeconfig.json
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/pratica01/bin/Debug/net8.0/pratica01.dll
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/pratica01/bin/Debug/net8.0/pratica01.pdb
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/pratica01/obj/Debug/net8.0/pratica01.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/pratica01/obj/Debug/net8.0/pratica01.AssemblyInfoInputs.cache
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/pratica01/obj/Debug/net8.0/pratica01.AssemblyInfo.cs
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/pratica01/obj/Debug/net8.0/pratica01.csproj.CoreCompileInputs.cache
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/pratica01/obj/Debug/net8.0/pratica01.sourcelink.json
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/pratica01/obj/Debug/net8.0/pratica01.dll
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/pratica01/obj/Debug/net8.0/refint/pratica01.dll
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/pratica01/obj/Debug/net8.0/pratica01.pdb
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/pratica01/obj/Debug/net8.0/pratica01.genruntimeconfig.cache
+/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/pratica01/obj/Debug/net8.0/ref/pratica01.dll

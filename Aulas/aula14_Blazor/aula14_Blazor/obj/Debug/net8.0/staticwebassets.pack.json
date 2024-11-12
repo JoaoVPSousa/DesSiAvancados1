@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula14_Blazor/obj/Debug/net8.0/scopedcss/projectbundle/aula14_Blazor.bundle.scp.css",
+      "PackagePath": "staticwebassets/aula14_Blazor.bundle.scp.css"
+    },
+    {
+      "Id": "/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula14_Blazor/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula14_Blazor/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula14_Blazor/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/workspaces/codigosGraduacao/codigosGraduacao-main/2-Semestre/06-Periodo-Des-SI-Avancados-I/aula14_Blazor/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.aula14_Blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.aula14_Blazor.props",
+      "PackagePath": "build\\aula14_Blazor.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.aula14_Blazor.props",
+      "PackagePath": "buildMultiTargeting\\aula14_Blazor.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.aula14_Blazor.props",
+      "PackagePath": "buildTransitive\\aula14_Blazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

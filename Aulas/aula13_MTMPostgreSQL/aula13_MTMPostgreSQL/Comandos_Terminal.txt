@@ -1,0 +1,22 @@
+1. Criar o projeto no terminal do Codespaces
+    dotnet new console -n aula07-Conteiner
+
+2. Configurar o Entity Framework:
+No terminal do Codespaces, instale as dependências do Entity Framework e o provedor para PostgreSQL:
+    dotnet add package Microsoft.EntityFrameworkCore
+    dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
+    dotnet add package Microsoft.EntityFrameworkCore.Design
+
+3. Instalar o dotnet-ef CLI Tool. Execute o comando a seguir para instalar o dotnet-ef globalmente:
+    dotnet tool install --global dotnet-ef
+Se o comando acima não funcionar, talvez você precise atualizar o PATH do seu ambiente para garantir que a pasta onde o dotnet-ef foi instalado esteja incluída. O caminho geralmente é ~/.dotnet/tools.
+
+4. Criar a Migração com o Entity Framework. Depois de instalar o dotnet-ef, você deve conseguir criar a migração com o comando:
+    dotnet ef migrations add InitialCreate
+
+5. Gerar o Banco de Dados
+Para aplicar a migração e criar o banco de dados, use o comando:
+    dotnet ef database update
+
+6. Executar o projeto pelo terminal
+    dotnet run

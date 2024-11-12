@@ -1,0 +1,15 @@
+/workspaces/c-teste/aula02/bin/Debug/net8.0/aula02
+/workspaces/c-teste/aula02/bin/Debug/net8.0/aula02.deps.json
+/workspaces/c-teste/aula02/bin/Debug/net8.0/aula02.runtimeconfig.json
+/workspaces/c-teste/aula02/bin/Debug/net8.0/aula02.dll
+/workspaces/c-teste/aula02/bin/Debug/net8.0/aula02.pdb
+/workspaces/c-teste/aula02/obj/Debug/net8.0/aula02.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-teste/aula02/obj/Debug/net8.0/aula02.AssemblyInfoInputs.cache
+/workspaces/c-teste/aula02/obj/Debug/net8.0/aula02.AssemblyInfo.cs
+/workspaces/c-teste/aula02/obj/Debug/net8.0/aula02.csproj.CoreCompileInputs.cache
+/workspaces/c-teste/aula02/obj/Debug/net8.0/aula02.sourcelink.json
+/workspaces/c-teste/aula02/obj/Debug/net8.0/aula02.dll
+/workspaces/c-teste/aula02/obj/Debug/net8.0/refint/aula02.dll
+/workspaces/c-teste/aula02/obj/Debug/net8.0/aula02.pdb
+/workspaces/c-teste/aula02/obj/Debug/net8.0/aula02.genruntimeconfig.cache
+/workspaces/c-teste/aula02/obj/Debug/net8.0/ref/aula02.dll
